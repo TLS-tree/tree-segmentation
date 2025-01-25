@@ -1,10 +1,14 @@
 ## Segmentation of Individual Trees in TLS Point Clouds via Graph Optimization
 
-
 1. Run trunk_localization.m to achieve trunk position.
 2. Run tree_segmentation.m to implement individual tree segmentation.
 
+This tool relies on the cut-pursuit algorithm, please also consider citing:
+
+<cite> Landrieu, L.; Obozinski, G. Cut Pursuit: Fast Algorithms to Learn Piecewise Constant Functions on General Weighted Graphs. SIAM J. Imaging Sci. 2017, 10, 1724–1766. [hal link](https://hal.archives-ouvertes.fr/hal-01306779)</cite>
+
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
