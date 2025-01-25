@@ -9,7 +9,7 @@ The supervoxel segmentation process relies on the l0 cut-pursuit algorithm, plea
 - Xi Z, Hopkinson C. 3D graph-based individual-tree isolation (Treeiso) from terrestrial laser scanning point clouds[J]. Remote Sensing, 2022, 14(23): 6116.
 
 
-# Acknowledgement
+## Acknowledgement
 This repository contains code from Xi's repository on artemis_treeiso (https://github.com/truebelief/artemis_treeiso), and Wang's repository on SSSC (https://github.com/dwang520/SSSC).
 
 
