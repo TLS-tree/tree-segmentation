@@ -1,8 +1,8 @@
 ## Segmentation of Individual Trees in TLS Point Clouds via Graph Optimization
 
 
-# Run trunk_localization.m to achieve trunk positioning.
-tree-segmentation/tree-segmentation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Run trunk_localization.m to achieve trunk position.
+2. Run tree_segmentation.m to implement individual tree segmentation.
 
 Here are some ideas to get you started:
 
