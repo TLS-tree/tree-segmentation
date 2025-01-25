@@ -1,4 +1,4 @@
-## Hi there 👋
+## Segmentation of Individual Trees in TLS Point Clouds via Graph Optimization
 
 <!--
 **tree-segmentation/tree-segmentation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
