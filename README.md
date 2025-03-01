@@ -1,6 +1,6 @@
 ## Segmentation of Individual Trees in TLS Point Clouds via Graph Optimization
 
-1. Run trunk_localization.m to achieve trunk position.
+1. Run trunk_localization.m to achieve trunk position. （Due to GitHub's file size limitations, only a small portion of the plot has been extracted as sample data for demonstration.）
 2. Run tree_segmentation.m to implement individual tree segmentation.
 
 The supervoxel segmentation process relies on the l0 cut-pursuit algorithm, please citing:
